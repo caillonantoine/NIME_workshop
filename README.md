@@ -3,6 +3,8 @@
 
 During this workshop you'll learn how [RAVE](https://github.com/acids-ircam/RAVE) and the [nn~ external](https://github.com/acids-ircam/nn_tilde) can be used together in order to perform timbre transfer and high-level manipulation on real-time audio streams.
 
+If you want to try out how RAVE works, you [can try our interactive demo website !](https://caillonantoine.github.io/ravejs/)
+
 ### Train a RAVE model
 
 If you want to train a RAVE model you [can follow those steps](https://github.com/acids-ircam/RAVE/blob/master/docs/training_setup.md) !
