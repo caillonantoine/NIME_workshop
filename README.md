@@ -13,7 +13,7 @@ We also provide a colab to handle the training (it is highly recommended to have
 
 [![colab_badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aK8K186QegnWVMAhfnFRofk_Jf7BBUxl?usp=sharing)
 
-...unfortunately training is gonna last for days, hence [you can use those pre-trained models !](https://nubo.ircam.fr/index.php/s/rC5rt5qG8GqswEb/download)
+...unfortunately training is gonna last for days, hence [you can use those pre-trained models !](https://acids-ircam.github.io/rave_models_download)
 
 ### Setup nn~
 
